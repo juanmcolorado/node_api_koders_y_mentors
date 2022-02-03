@@ -1,0 +1,117 @@
+{
+  "mentors": [
+    {
+      "number": 1,
+      "name": "Charles",
+      "subject": "node",
+      "sex": "m",
+      "class": [
+        "taller",
+        "module"
+      ],
+      "age": 25
+    },
+    {
+      "number": 2,
+      "name": "Israel",
+      "subject": "node",
+      "sex": "m",
+      "class": [
+        "taller",
+        "module"
+      ],
+      "age": 25
+    },
+    {
+      "number": 3,
+      "name": "Naomi",
+      "subject": "Programs",
+      "sex": "m",
+      "class": [
+        "taller",
+        "module"
+      ],
+      "age": 25
+    }
+  ],
+  "koders": [
+    {
+      "id": 1,
+      "name": "Emilio",
+      "age": 29,
+      "nationality": "mexican",
+      "generation number": 15,
+      "hobbies": [
+        "bataca",
+        "diseño"
+      ],
+      "sex": "m",
+      "city": "GDL"
+    },
+    {
+      "id": 2,
+      "name": "Erik",
+      "age": 28,
+      "nationality": "mexican",
+      "generation number": 15,
+      "hobbies": [
+        "nadar",
+        "football"
+      ],
+      "sex": "m",
+      "city": "CDMX"
+    },
+    {
+      "id": 3,
+      "name": "Job",
+      "age": 33,
+      "nationality": "mexican",
+      "generation number": 15,
+      "hobbies": [
+        "GYM",
+        "PS"
+      ],
+      "sex": "m",
+      "city": "CDMX"
+    },
+    {
+      "id": 4,
+      "name": "Ismael",
+      "age": 40,
+      "nationality": "mexican",
+      "generation number": 15,
+      "hobbies": [
+        "musica",
+        "charcha"
+      ],
+      "sex": "m",
+      "city": "CDMX"
+    },
+    {
+      "id": 5,
+      "name": "Sara",
+      "age": 32,
+      "nationality": "mexican",
+      "generation number": 15,
+      "hobbies": [
+        "caminar",
+        "leer"
+      ],
+      "sex": "f",
+      "city": "Durango"
+    },
+    {
+      "id": 6,
+      "name": "Ivonne",
+      "age": 30,
+      "nationality": "mexican",
+      "generation number": 15,
+      "hobbies": [
+        "bailar",
+        "cine"
+      ],
+      "sex": "F",
+      "city": "Toluca"
+    }
+  ]
+}

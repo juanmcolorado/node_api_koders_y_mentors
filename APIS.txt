@@ -1,0 +1,26 @@
+APIS
+aplication programming interface
+
+que es una API?
+
+Es un conjunto de procedimientos que cumplen muchas funcines con 
+el fin de ser utilizadas por otro software
+
+rest es una arquitectura
+
+restful se denomina a un servicio que implementa rest
+
+caracteristicas:
+-un protocolo cliente/servidor sin estado (http)
+-conjunto de operaciones bien definidas (get,post,delete)
+-sintaxis universal (/recurso/identificador))
+-uso de hipermedios (html, json, xml)
+
+endpoints = conjunto de dos elmentos
+
+1.-metodo http (get post delete)
+2.- url /hola /adios /  raiz
+
+GET/hola POST/hola
+
+punto final es la traducción literal
